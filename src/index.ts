@@ -1,1 +1,1 @@
-console.log('The public API is not developed just yet. Try again later.')
+console.log('The public API is not developed yet. Try again later.')
